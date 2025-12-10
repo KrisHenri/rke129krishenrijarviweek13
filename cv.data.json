@@ -1,0 +1,15 @@
+{
+  "firstName": "Kris Henri",
+  "lastName": "Järvi",
+  "age": 40,
+  "email": "kris.henri.jarvi@gmail.com",
+  "rating": {
+    "stars": 5,
+    "votes": "40M"
+  },
+  "profileText": "Olen mitmekülgne näitleja, stsenarist, produtsent ja lavastaja, kelle töö ühendab tugevad komöödiaskused ja loomuliku ekraanikarismaga esinemise. Olen kirjutanud ja produtseerinud mitmeid menukaid filme, sealhulgas Superbad, Pineapple Express ja This Is the End. Lisaks komöödiatele olen tõestanud oma võimekust ka draamarollides, näiteks filmides Steve Jobs ja The Fabelmans. Lavastajana olen aidanud luua kõrge hinnanguga projekte, sealhulgas sarja The Boys produktsioonifirma kaudu. Olen tuntud professionaalsuse, tugeva tööeetika ja koostööd soosiva töökeskkonna loomise poolest.",
+  "images": [
+    "img/sethrogen.png",
+    "img/sethrogen2.png"
+  ]
+}
